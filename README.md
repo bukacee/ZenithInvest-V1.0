@@ -1,16 +1,16 @@
 # ZenithInvest
-PonziPedia - Peer 2 Peer 50% ROI Donation System script
+ZenithInvest - Peer 2 Peer 50% ROI Donation System script
 <div data-view="toggleItemDescription">
         <div class="js-item-description item-description has-toggle">
-          <div class="user-html"><p><strong><a href="https://zenithwealth.co//" rel="nofollow">PonziPedia</a></strong> - Peer 2 Peer 50% ROI Donation System script, PonziPedia is the best way to start your own pair 2 pair donation website!<br>
-PonziPedia is fast, secured, and it will be regularly updated.<br>
-</p><blockquote>PonziPedia v1.6</blockquote>
+          <div class="user-html"><p><strong><a href="https://zenithwealth.co//" rel="nofollow">PonziPedia</a></strong> - Peer 2 Peer 50% ROI Donation System script, ZenithInvest is the best way to start your own pair 2 pair donation website!<br>
+ZenithInvest is fast, secured, and it will be regularly updated.<br>
+</p><blockquote>ZenithInvest v1.6</blockquote>
 <blockquote>Check out the complete features online <a href="https://zenithwealth.co/" rel="nofollow">Online Demo</a>
 </blockquote>
 <blockquote>2 Support System included!</blockquote><br>
 <blockquote>Includes Documentation!</blockquote><br><br>
 
-PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5qvuuOrhBk" rel="nofollow">Watch how to install PonziPedia</a><br> 
+ZenithInvest is very easy to install, <a href="https://www.youtube.com/watch?v=s5qvuuOrhBk" rel="nofollow">Watch how to install PonziPedia</a><br> 
 <br>
 
 <br>
@@ -22,14 +22,15 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
         <blockquote><code>#Read the documentation to set up database and others its well explained</code></blockquote>
         <blockquote><code>Online demo <a href="https://zenithwealth.co">Admin panel</a> Username: demouser Password: demouser</code></blockquote>
         <blockquote><code>Online demo <a href="https://zenithwealth.co/"> Signup to view</a></code></blockquote>
-        
+
+<h3> <b>NB: <em><font color='red'> Contact me on facebook >> <a href="https://web.facebook.com/bukacee/">bukacee</a>, for the database file </font> </em></b></h3>       
       
 <h2 id="item-description__user-features-demo">User Features  (<a href="https://zenithwealth.co/" rel="nofollow">Demo</a>)</h2>
 <ul>
   <li>
 <strong>High Level Cache System:</strong> The #1 thing that must be available on any high traffic website, The Speed ! We Speed up your website with our Cache system</li>
   <li>
-<strong>PonziPedia (New Feature)</strong>: With our new feature, user can create tickets, messages, comments.</li>
+<strong>ZenithInvest (New Feature)</strong>: With our new feature, user can create tickets, messages, comments.</li>
   <li>
 <strong>System join</strong>: Easy to Registrared & Login.</li>
   <li>
@@ -60,6 +61,10 @@ PonziPedia is very easy to install, <a href="https://www.youtube.com/watch?v=s5q
   <li>Password recovery by email.</li>
   <li>Comment auto detector (Moderated)</li>
 </ul>
+
+<h3> <b>NB: <em><font color='red'> Contact me on facebook >> <a href="https://web.facebook.com/bukacee/">bukacee</a>, for the database file </font> </em></b></h3>
+
+
 <h5 id="item-description__and-much-more"><em>and much more…</em></h5>
 <h2 id="item-description__admin-panel-features">Admin Panel Features:</h2>
 <ul>
@@ -106,6 +111,8 @@ Multibyte String (optional)<br>
 Internationalization (optional)<br>
 <br>
 </blockquote>
+
+<h3> <b>NB: <em><font color='red'> Contact me on facebook >> <a href="https://web.facebook.com/bukacee/">bukacee</a>, for the database file </font> </em></b></h3>
 
 <h2 id="item-description__updates">Updates</h2>
  <h5 id="item-description__version-1-5-5-2-09-08-2020">
@@ -182,6 +189,7 @@ This application was created for educational purposes only. It is forbidden to c
         ## Credits
 - <a href="https://github.com/bukacee" target="_blank">bukacee</a>
 
+<h3> <b>NB: <em><font color='red'> Contact me on facebook >> <a href="https://web.facebook.com/bukacee/">bukacee</a>, for the database file </font> </em></b></h3>
 
 
       
