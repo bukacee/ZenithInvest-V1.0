@@ -1,8 +1,8 @@
 # ZenithInvest
-ZenithInvest - Peer 2 Peer 50% ROI Donation System script
+ZenithInvest - Peer 2 Peer 50% ROI Donation/Investment System script (Advanced Ponzi)
 <div data-view="toggleItemDescription">
         <div class="js-item-description item-description has-toggle">
-          <div class="user-html"><p><strong><a href="https://zenithwealth.co//" rel="nofollow">PonziPedia</a></strong> - Peer 2 Peer 50% ROI Donation System script, ZenithInvest is the best way to start your own pair 2 pair donation website!<br>
+          <div class="user-html"><p><strong><a href="https://zenithwealth.co//" rel="nofollow">ZenithInvest</a></strong> - Peer 2 Peer 50% ROI Donation System script, ZenithInvest is the best way to start your own pair 2 pair donation website!<br>
 ZenithInvest is fast, secured, and it will be regularly updated.<br>
 </p><blockquote>ZenithInvest v1.6</blockquote>
 <blockquote>Check out the complete features online <a href="https://zenithwealth.co/" rel="nofollow">Online Demo</a>
@@ -10,7 +10,7 @@ ZenithInvest is fast, secured, and it will be regularly updated.<br>
 <blockquote>2 Support System included!</blockquote><br>
 <blockquote>Includes Documentation!</blockquote><br><br>
 
-ZenithInvest is very easy to install, <a href="https://www.youtube.com/watch?v=s5qvuuOrhBk" rel="nofollow">Watch how to install PonziPedia</a><br> 
+ZenithInvest is very easy to install, <a href="https://www.youtube.com/watch?v=s5qvuuOrhBk" rel="nofollow">Watch how to install ZenithInvest</a><br> 
 <br>
 
 <br>
